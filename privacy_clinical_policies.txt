@@ -1,0 +1,36 @@
+Positioning / marketing
+
+Use language like “self‑reflection”, “mental wellbeing companion”, “helps you notice patterns and habits”, not “treats depression/anxiety”.
+
+Add a clear disclaimer: “This is not a medical device and is not a substitute for professional mental health care or diagnosis.”
+
+No medical device licenses yet
+
+India: outside CDSCO as long as you remain standalone wellness.
+
+USA, Canada, UAE: can be treated as consumer wellness app if you avoid treatment/diagnosis claims.
+
+You do not need FDA / Health Canada device approval, CDSCO device registration, or DHA telehealth licensing at this stage.
+
+You still need strong privacy / terms
+
+Region‑agnostic minimum:
+
+Clear privacy policy and terms of use (in English, and optionally local languages for India/UAE).
+
+Explicit user consent for storing their mental health data.
+
+Explain where data is hosted, who can access it, how long it is kept, and how users can delete it.
+
+Align with:
+
+India’s DPDPA expectations around sensitive data.
+​
+
+US FTC guidance (no deceptive claims).
+​
+
+Canada’s PIPEDA principles.
+​
+
+UAE PDPL‑style rules (purpose limitation, security).
